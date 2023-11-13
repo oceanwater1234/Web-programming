@@ -1,0 +1,23 @@
+{
+  "name": "temp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main6.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oceanwater1234/Web-programming.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/oceanwater1234/Web-programming/issues"
+  },
+  "homepage": "https://github.com/oceanwater1234/Web-programming#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mysql": "^2.18.1"
+  }
+}
